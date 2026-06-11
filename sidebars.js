@@ -1,3 +1,5 @@
+// sidebars.js
+
 module.exports = {
     docs: [
         {

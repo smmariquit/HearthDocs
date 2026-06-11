@@ -1,3 +1,5 @@
+// docusaurus.config.js
+
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'HearthCraft Wiki',
