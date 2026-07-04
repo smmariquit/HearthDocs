@@ -19,10 +19,10 @@ For an example, this would be how you sell 64 diamonds
 4. ?
 
 
-The blank line will convert to the name of the player who placed the sign.  
-The 64 signifies that when someone buys from your chest shop, they will get 64 diamonds.  
-The 3500 signifies that the player is paying that much for the diamonds.  
-The question mark will turn into *Diamond* once you right click the sign with a diamond.  
+The blank line will convert to the name of the player who placed the sign. 
+The 64 signifies that when someone buys from your chest shop, they will get 64 diamonds. 
+The 3500 signifies that the player is paying that much for the diamonds. 
+The question mark will turn into *Diamond* once you right click the sign with a diamond. 
 
 
 If you want players to be able to sell items to you, all you need to do is switch the "B" in line 3 to an "S" to signify that the player is selling items instead of buying.
