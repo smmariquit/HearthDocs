@@ -6,7 +6,7 @@ Chat Brawl is a super fun plugin that adds races in chat every 20 minutes for pl
 ## Races
 
 | Race type | How to win |
-| -- | -- |
+|, |, |
 | Block Race | First player to mine the blocks specified in chat |
 | Chat Race | First player to type the word specified in chat |
 | Craft Race | First player to craft the item specified in chat |
