@@ -6,7 +6,7 @@ This plugin adds the ability to marry players in-game. Whether its just a friend
 ## Commands
 
 | Usage | Description |
-| -- | -- |
+|, |, |
 | /marry [player] | Sends a marriage request to a player
 | /marry gift | Sends the item in your hand to your partner
 | /marry pvp [on/off] | Enables or disables PvP between you and your partner
