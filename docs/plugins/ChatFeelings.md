@@ -5,7 +5,7 @@ This plugin allows you to display feelings towards other players in chat with ba
 ## Commands
 
 | Usage |
-| -- |
+|, |
 | **/hug** [player]
 | **/slap** [player]
 | **/poke** [player]
@@ -25,5 +25,5 @@ This plugin allows you to display feelings towards other players in chat with ba
 | **/lick** [player]
 | **/pat** [player]
 | **/stalk** [player]
-| **/f**  [player] (available to all players regardless of rank)
+| **/f** [player] (available to all players regardless of rank)
 | **/sus** [player] (available to all players regardless of rank)
