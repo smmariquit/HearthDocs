@@ -10,7 +10,7 @@ Sources for Pet Keys are as follows:
 * Player to player trading
 
 | Pet Crate Rewards |
-| -- |
+|, |
 | Pig Pet
 | Cow Pet
 | Chicken Pet
