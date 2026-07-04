@@ -10,7 +10,7 @@ Sources for Tag Keys are as follows:
 * Player to player trading
 
 | Tag Crate Rewards |
-|  -- | -- |
+|, |, |
 | Cicada
 | Rainbow
 | Expert
