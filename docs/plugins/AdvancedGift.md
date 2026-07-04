@@ -5,7 +5,7 @@ This plugin allows players to send gifts to other players without needing to go 
 ## Commands
 
 | Usage | Description |
-|--|--|
+|, |, |
 | **/gift** [player] [amount/hand/all] [message] | Sends a gift to the specified player |
 | **/togglegift** | Toggles gift receiving on or off |
 | **/giftblock** [player] | Blocks specific players from sending you gifts |
