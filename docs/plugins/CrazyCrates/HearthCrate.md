@@ -13,7 +13,7 @@ Sources for Hearth Keys are as follows:
 * Kits - **/kit key** available to level 61 and above
 
 | Hearth Crate Rewards | Chance of Winning |
-| -- | -- |
+|, |, |
 | $50,000 | 5% Chance
 | $75,000 | 3.75% Chance
 | $150,000 | 2.5% Chance
