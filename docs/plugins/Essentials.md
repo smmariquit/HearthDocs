@@ -5,7 +5,7 @@ This plugin is a cross between a player plugin and an Administrator plugin. Esse
 ## Commands
 
 | Usage | Description |
-| -- | -- |
+|, |, |
 | /baltop | Shows the richest players
 | /pay [player] [amount] | Pays the specified player the specified amount
 | /seen [player] | Shows when a player last logged into the server
