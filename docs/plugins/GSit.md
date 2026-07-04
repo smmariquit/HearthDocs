@@ -5,7 +5,7 @@ This plugin allows players to sit, lay, or crawl on various blocks as well as si
 ## Commands
 
 | Usage | Description | Source |
-| -- | -- | -- |
+|, |, |, |
 | /sit | Sit down | No rank
 | /crawl | Crawl like a baby | Mystic+ Rank
 | /lay | Pretend to sleep | Mystic+ Rank
