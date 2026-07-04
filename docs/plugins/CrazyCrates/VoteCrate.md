@@ -11,7 +11,7 @@ Sources for Vote Keys are as follows:
 * Player to player trading
 
 | Vote Crate Rewards | Chance of Winning |
-| -- | -- |
+|, |, |
 | Efficiency 5 Unbreakable Golden Pickaxe | 0.1% Chance
 | $1,000 | 5% Chance
 | $2,000 | 5% Chance
