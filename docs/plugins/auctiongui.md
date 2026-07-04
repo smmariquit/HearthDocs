@@ -5,7 +5,7 @@ This plugin as a high-quality auction GUI which allows players to buy items, sel
 ## Commands
 
 | Usage | Description |
-|--|--|
+|, |, |
 | **/auc** | Opens the GUI
 | **/bid** [auction id] [amount] | Bids on the specified auction _(auc ID can be found in /auc)_
 | **/auc start** [quantity] [price] [increment] [duration] | Starts an auction for the held item
