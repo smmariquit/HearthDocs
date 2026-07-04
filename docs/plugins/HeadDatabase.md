@@ -8,7 +8,7 @@ This plugin is available to all players with Ethereal rank and above.
 ## Commands
 
 | Usage | Description |
-| -- | -- |
+|, |, |
 | /hdb | Opens the GUI
 | /hdb search [word] | Searches for a head that matches the specified word
 | /phead [player] | Gives you the head of the specified player
