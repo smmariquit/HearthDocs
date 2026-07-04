@@ -12,7 +12,7 @@ Example:
 ## Commands
 
 | Usage | Description
-| -- | -- |
+|, |, |
 | /unclaim | Unclaims a claim that you are currently standing inside of
 | /unclaim | Unclaims all claims if you are not standing inside of one
 | /trust [player] | Trusts the specified player to build inside your claim
