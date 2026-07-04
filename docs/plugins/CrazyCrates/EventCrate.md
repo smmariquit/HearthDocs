@@ -11,7 +11,7 @@ Sources for Event Keys are as follows:
 * Player to player trading
 
 | Event Crate Rewards | Chance of Winning
-| -- | -- |
+|, |, |
 | $10,000 | 5% Chance
 | $35,000 | 5% Chance
 | 4 God Apples | 5% Chance
